@@ -1,0 +1,14 @@
+1667470552514	geckodriver	INFO	Listening on 127.0.0.1:56751
+1667470696311	geckodriver	INFO	Listening on 127.0.0.1:56933
+1667470767849	geckodriver	INFO	Listening on 127.0.0.1:57010
+1667470868289	geckodriver	INFO	Listening on 127.0.0.1:57122
+1667470871329	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57123" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\veenu\\AppData\\Local\\Temp\\rust_mozprofileMBk30K"
+1667470872607	Marionette	INFO	Marionette enabled
+1667470872620	Marionette	INFO	Listening on port 57136
+Read port: 57136
+WebDriver BiDi listening on ws://127.0.0.1:57123
+1667470872858	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\veenu\\AppData\\Local\\Temp\\rust_mozprofileMBk30K\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57123/devtools/browser/791890df-7ea3-4c13-915b-9ca14cf13ee2
+JavaScript error: https://www.rahulshettyacademy.com/seleniumPractise/main.4acd6ebce6dff3b5152c.js, line 6: Error: Request aborted
+1667470885581	Marionette	INFO	Stopped listening on port 57136

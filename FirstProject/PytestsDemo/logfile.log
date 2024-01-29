@@ -1,0 +1,116 @@
+2022-11-25 14:53:12,936 : INFO : PytestsDemo.test_logging : Information statements  
+2022-11-25 14:53:12,936 : WARNING : PytestsDemo.test_logging : Somthing is in Waring statement mode 
+2022-11-25 14:53:12,936 : ERROR : PytestsDemo.test_logging : A major error has happened  
+2022-11-25 14:53:12,937 : CRITICAL : PytestsDemo.test_logging : Critical issues 
+2022-11-25 16:32:37,235 : INFO : PytestsDemo.test_logging : Information statements  
+2022-11-25 16:32:37,235 : WARNING : PytestsDemo.test_logging : Somthing is in Waring statement mode 
+2022-11-25 16:32:37,235 : ERROR : PytestsDemo.test_logging : A major error has happened  
+2022-11-25 16:32:37,235 : CRITICAL : PytestsDemo.test_logging : Critical issues 
+2022-11-25 17:21:59,896 : INFO : PytestsDemo.BaseClass : Information statements  
+2022-11-25 17:21:59,897 : WARNING : PytestsDemo.BaseClass : Somthing is in Waring statement mode 
+2022-11-25 17:21:59,897 : ERROR : PytestsDemo.BaseClass : A major error has happened  
+2022-11-25 17:21:59,897 : CRITICAL : PytestsDemo.BaseClass : Critical issues 
+2022-11-25 17:21:59,904 : INFO : PytestsDemo.BaseClass : Information statements  
+2022-11-25 17:21:59,904 : INFO : PytestsDemo.BaseClass : Information statements  
+2022-11-25 17:21:59,904 : WARNING : PytestsDemo.BaseClass : Somthing is in Waring statement mode 
+2022-11-25 17:21:59,904 : WARNING : PytestsDemo.BaseClass : Somthing is in Waring statement mode 
+2022-11-25 17:21:59,905 : ERROR : PytestsDemo.BaseClass : A major error has happened  
+2022-11-25 17:21:59,905 : ERROR : PytestsDemo.BaseClass : A major error has happened  
+2022-11-25 17:21:59,905 : CRITICAL : PytestsDemo.BaseClass : Critical issues 
+2022-11-25 17:21:59,905 : CRITICAL : PytestsDemo.BaseClass : Critical issues 
+2022-11-25 17:24:50,363 : INFO : PytestsDemo.BaseClass : Information statements  
+2022-11-25 17:24:50,364 : WARNING : PytestsDemo.BaseClass : Somthing is in Waring statement mode 
+2022-11-25 17:24:50,364 : ERROR : PytestsDemo.BaseClass : A major error has happened  
+2022-11-25 17:24:50,364 : CRITICAL : PytestsDemo.BaseClass : Critical issues 
+2022-11-25 17:24:50,375 : INFO : PytestsDemo.BaseClass : Information statements  
+2022-11-25 17:24:50,375 : INFO : PytestsDemo.BaseClass : Information statements  
+2022-11-25 17:24:50,375 : WARNING : PytestsDemo.BaseClass : Somthing is in Waring statement mode 
+2022-11-25 17:24:50,375 : WARNING : PytestsDemo.BaseClass : Somthing is in Waring statement mode 
+2022-11-25 17:24:50,375 : ERROR : PytestsDemo.BaseClass : A major error has happened  
+2022-11-25 17:24:50,375 : ERROR : PytestsDemo.BaseClass : A major error has happened  
+2022-11-25 17:24:50,375 : CRITICAL : PytestsDemo.BaseClass : Critical issues 
+2022-11-25 17:24:50,375 : CRITICAL : PytestsDemo.BaseClass : Critical issues 
+2022-11-25 17:25:31,012 : INFO : PytestsDemo.BaseClass : Information statements  
+2022-11-25 17:25:31,012 : WARNING : PytestsDemo.BaseClass : Somthing is in Waring statement mode 
+2022-11-25 17:25:31,012 : ERROR : PytestsDemo.BaseClass : A major error has happened  
+2022-11-25 17:25:31,012 : CRITICAL : PytestsDemo.BaseClass : Critical issues 
+2022-11-25 17:25:31,019 : INFO : PytestsDemo.BaseClass : Information statements  
+2022-11-25 17:25:31,019 : INFO : PytestsDemo.BaseClass : Information statements  
+2022-11-25 17:25:31,020 : WARNING : PytestsDemo.BaseClass : Somthing is in Waring statement mode 
+2022-11-25 17:25:31,020 : WARNING : PytestsDemo.BaseClass : Somthing is in Waring statement mode 
+2022-11-25 17:25:31,020 : ERROR : PytestsDemo.BaseClass : A major error has happened  
+2022-11-25 17:25:31,020 : ERROR : PytestsDemo.BaseClass : A major error has happened  
+2022-11-25 17:25:31,020 : CRITICAL : PytestsDemo.BaseClass : Critical issues 
+2022-11-25 17:25:31,020 : CRITICAL : PytestsDemo.BaseClass : Critical issues 
+2022-11-25 17:26:20,588 : INFO : PytestsDemo.BaseClass : Information statements  
+2022-11-25 17:26:20,588 : WARNING : PytestsDemo.BaseClass : Somthing is in Waring statement mode 
+2022-11-25 17:26:20,588 : ERROR : PytestsDemo.BaseClass : A major error has happened  
+2022-11-25 17:26:20,588 : CRITICAL : PytestsDemo.BaseClass : Critical issues 
+2022-11-25 17:26:20,592 : INFO : PytestsDemo.BaseClass : Information statements  
+2022-11-25 17:26:20,592 : INFO : PytestsDemo.BaseClass : Information statements  
+2022-11-25 17:26:20,593 : WARNING : PytestsDemo.BaseClass : Somthing is in Waring statement mode 
+2022-11-25 17:26:20,593 : WARNING : PytestsDemo.BaseClass : Somthing is in Waring statement mode 
+2022-11-25 17:26:20,593 : ERROR : PytestsDemo.BaseClass : A major error has happened  
+2022-11-25 17:26:20,593 : ERROR : PytestsDemo.BaseClass : A major error has happened  
+2022-11-25 17:26:20,593 : CRITICAL : PytestsDemo.BaseClass : Critical issues 
+2022-11-25 17:26:20,593 : CRITICAL : PytestsDemo.BaseClass : Critical issues 
+2022-11-25 17:28:52,418 : INFO : PytestsDemo.BaseClass : Information statements  
+2022-11-25 17:28:52,418 : WARNING : PytestsDemo.BaseClass : Somthing is in Waring statement mode 
+2022-11-25 17:28:52,418 : ERROR : PytestsDemo.BaseClass : A major error has happened  
+2022-11-25 17:28:52,419 : CRITICAL : PytestsDemo.BaseClass : Critical issues 
+2022-11-25 17:32:52,632 : INFO : PytestsDemo.BaseClass : Information statements  
+2022-11-25 17:32:52,632 : WARNING : PytestsDemo.BaseClass : Somthing is in Waring statement mode 
+2022-11-25 17:32:52,632 : ERROR : PytestsDemo.BaseClass : A major error has happened  
+2022-11-25 17:32:52,632 : CRITICAL : PytestsDemo.BaseClass : Critical issues 
+2022-11-25 17:34:40,733 : INFO : PytestsDemo.BaseClass : Information statements  
+2022-11-25 17:34:40,733 : WARNING : PytestsDemo.BaseClass : Somthing is in Waring statement mode 
+2022-11-25 17:34:40,733 : ERROR : PytestsDemo.BaseClass : A major error has happened  
+2022-11-25 17:34:40,733 : CRITICAL : PytestsDemo.BaseClass : Critical issues 
+2022-11-25 17:36:26,982 : INFO : PytestsDemo.BaseClass : Information statements  
+2022-11-25 17:36:26,982 : WARNING : PytestsDemo.BaseClass : Somthing is in Waring statement mode 
+2022-11-25 17:36:26,982 : ERROR : PytestsDemo.BaseClass : A major error has happened  
+2022-11-25 17:36:26,982 : CRITICAL : PytestsDemo.BaseClass : Critical issues 
+2022-11-25 17:40:48,021 : INFO : PytestsDemo.BaseClass : Information statements  
+2022-11-25 17:40:48,021 : WARNING : PytestsDemo.BaseClass : Somthing is in Waring statement mode 
+2022-11-25 17:40:48,021 : ERROR : PytestsDemo.BaseClass : A major error has happened  
+2022-11-25 17:40:48,021 : CRITICAL : PytestsDemo.BaseClass : Critical issues 
+2022-11-25 17:41:09,779 : INFO : PytestsDemo.BaseClass : Information statements  
+2022-11-25 17:41:09,780 : WARNING : PytestsDemo.BaseClass : Somthing is in Waring statement mode 
+2022-11-25 17:41:09,780 : ERROR : PytestsDemo.BaseClass : A major error has happened  
+2022-11-25 17:41:09,780 : CRITICAL : PytestsDemo.BaseClass : Critical issues 
+2022-11-25 17:42:48,107 : INFO : PytestsDemo.BaseClass : Information statements  
+2022-11-25 17:42:48,107 : WARNING : PytestsDemo.BaseClass : Somthing is in Waring statement mode 
+2022-11-25 17:42:48,108 : ERROR : PytestsDemo.BaseClass : A major error has happened  
+2022-11-25 17:42:48,108 : CRITICAL : PytestsDemo.BaseClass : Critical issues 
+2022-11-25 17:42:48,108 : INFO : PytestsDemo.BaseClass : Rahul 
+2022-11-25 17:42:48,108 : INFO : PytestsDemo.BaseClass : rahulshettyacademy.com 
+2022-11-25 17:43:01,666 : INFO : PytestsDemo.BaseClass : Information statements  
+2022-11-25 17:43:01,666 : WARNING : PytestsDemo.BaseClass : Somthing is in Waring statement mode 
+2022-11-25 17:43:01,666 : ERROR : PytestsDemo.BaseClass : A major error has happened  
+2022-11-25 17:43:01,666 : CRITICAL : PytestsDemo.BaseClass : Critical issues 
+2022-11-25 17:43:01,666 : INFO : PytestsDemo.BaseClass : Rahul 
+2022-11-25 17:43:01,666 : INFO : PytestsDemo.BaseClass : rahulshettyacademy.com 
+2022-11-25 17:54:28,577 : INFO : PytestsDemo.BaseClass : Information statements  
+2022-11-25 17:54:28,578 : WARNING : PytestsDemo.BaseClass : Somthing is in Waring statement mode 
+2022-11-25 17:54:28,578 : ERROR : PytestsDemo.BaseClass : A major error has happened  
+2022-11-25 17:54:28,578 : CRITICAL : PytestsDemo.BaseClass : Critical issues 
+2022-11-25 17:54:28,578 : INFO : PytestsDemo.BaseClass : Rahul 
+2022-11-25 17:54:28,578 : INFO : PytestsDemo.BaseClass : rahulshettyacademy.com 
+2022-11-25 17:54:46,269 : INFO : PytestsDemo.BaseClass : Information statements  
+2022-11-25 17:54:46,269 : WARNING : PytestsDemo.BaseClass : Somthing is in Waring statement mode 
+2022-11-25 17:54:46,269 : ERROR : PytestsDemo.BaseClass : A major error has happened  
+2022-11-25 17:54:46,269 : CRITICAL : PytestsDemo.BaseClass : Critical issues 
+2022-11-25 17:54:46,269 : INFO : PytestsDemo.BaseClass : Rahul 
+2022-11-25 17:54:46,269 : INFO : PytestsDemo.BaseClass : rahulshettyacademy.com 
+2022-11-25 17:56:20,559 : INFO : test_editProfile : Information statements  
+2022-11-25 17:56:20,559 : WARNING : test_editProfile : Somthing is in Waring statement mode 
+2022-11-25 17:56:20,559 : ERROR : test_editProfile : A major error has happened  
+2022-11-25 17:56:20,559 : CRITICAL : test_editProfile : Critical issues 
+2022-11-25 17:56:20,559 : INFO : test_editProfile : Rahul 
+2022-11-25 17:56:20,559 : INFO : test_editProfile : rahulshettyacademy.com 
+2022-11-25 19:16:55,753 : INFO : test_editProfile : Information statements  
+2022-11-25 19:16:55,753 : WARNING : test_editProfile : Somthing is in Waring statement mode 
+2022-11-25 19:16:55,753 : ERROR : test_editProfile : A major error has happened  
+2022-11-25 19:16:55,753 : CRITICAL : test_editProfile : Critical issues 
+2022-11-25 19:16:55,753 : INFO : test_editProfile : Rahul 
+2022-11-25 19:16:55,753 : INFO : test_editProfile : rahulshettyacademy.com 

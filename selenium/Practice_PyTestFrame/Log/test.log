@@ -1,0 +1,358 @@
+1705572156.9104555 2024-01-18 15:32:36,910 INFO test_case_001_login_title :: Passed
+1705572897.047759 2024-01-18 15:44:57,047 INFO test_case_001_login_title :: Passed
+1705905207.411123 2024-01-22 12:03:27,411 INFO test_case_001_login_title :: Passed
+1705905286.2409418 2024-01-22 12:04:46,240 INFO test_case_001_login_title :: Passed
+1705905451.7708175 2024-01-22 12:07:31,770 INFO test_case_001_login_title :: Passed
+1705906938.541051 2024-01-22 12:32:18,541 INFO test_case_001_login_title :: Passed
+1705912727.9524226 2024-01-22 14:08:47,952 INFO test_case_001_login_title :: Passed
+1705912752.2562492 2024-01-22 14:09:12,256 INFO test_case_001_login_title :: Passed
+1705913025.5188556 2024-01-22 14:13:45,518 INFO test_case_001_login_title :: Passed
+1705913040.881589 2024-01-22 14:14:00,881 INFO test_case_001_login_title :: Passed
+1705913222.8740928 2024-01-22 14:17:02,874 INFO test_case_001_login_title :: Passed
+1705913234.732522 2024-01-22 14:17:14,732 INFO test_case_001_login_title :: Passed
+1705913427.8483577 2024-01-22 14:20:27,848 INFO test_case_001_login_title :: Passed
+1705913438.8545682 2024-01-22 14:20:38,854 INFO test_case_001_login_title :: Passed
+1705913448.594279 2024-01-22 14:20:48,594 ERROR test_case_001_login_title :: Failed
+1705913455.89627 2024-01-22 14:20:55,896 ERROR test_case_001_login_title :: Failed
+1705913464.4913657 2024-01-22 14:21:04,491 ERROR test_case_001_login_title :: Failed
+1705913502.6347258 2024-01-22 14:21:42,634 INFO test_case_001_login_title :: Passed
+1705913514.1933823 2024-01-22 14:21:54,193 INFO test_case_001_login_title :: Passed
+1705913523.8957558 2024-01-22 14:22:03,895 ERROR test_case_001_login_title :: Failed
+1705913532.8217585 2024-01-22 14:22:12,821 ERROR test_case_001_login_title :: Failed
+1705913541.4577565 2024-01-22 14:22:21,457 ERROR test_case_001_login_title :: Failed
+1705913605.9235988 2024-01-22 14:23:25,923 INFO test_case_001_login_title :: Passed
+1705913618.07733 2024-01-22 14:23:38,077 INFO test_case_001_login_titleadmin@yourstore.com_admin :: Passed
+1705913627.8606899 2024-01-22 14:23:47,860 ERROR test_case_001_login_title :: Failed
+1705913637.366148 2024-01-22 14:23:57,366 ERROR test_case_001_login_title :: Failed
+1705913646.5195508 2024-01-22 14:24:06,519 ERROR test_case_001_login_title :: Failed
+1705914101.991417 2024-01-22 14:31:41,991 INFO test_case_001_login_title :: Passed
+1705914113.3919578 2024-01-22 14:31:53,391 INFO test_case_001_login_titleadmin@yourstore.com_admin :: Passed
+1705914122.569786 2024-01-22 14:32:02,569 ERROR test_case_001_login_title :: Failed
+1705914131.6657374 2024-01-22 14:32:11,665 ERROR test_case_001_login_title :: Failed
+1705914141.1203012 2024-01-22 14:32:21,120 ERROR test_case_001_login_title :: Failed
+1705914200.0667324 2024-01-22 14:33:20,066 INFO test_case_001_login_title :: Passed
+1705914212.587712 2024-01-22 14:33:32,587 INFO test_case_001_login_titleadmin@yourstore.com_admin :: Passed
+1705914222.8346949 2024-01-22 14:33:42,834 ERROR test_case_001_login_title admin@yourstore.com adm :: Failed
+1705914232.0988572 2024-01-22 14:33:52,098 ERROR test_case_001_login_title admin@yourstore.com and :: Failed
+1705914241.8437772 2024-01-22 14:34:01,843 ERROR test_case_001_login_title admin@yourstore.com1 admin :: Failed
+1705915239.4066563 2024-01-22 14:50:39,406 INFO test_case_001_login_title :: Passed
+1705915951.5086153 2024-01-22 15:02:31,508 INFO test_case_001_login_title :: Passed
+1705915971.6993434 2024-01-22 15:02:51,699 INFO test_case_001_login_titleadmin@yourstore.com_admin :: Passed
+1705915985.2337813 2024-01-22 15:03:05,233 ERROR test_case_001_login_title admin@yourstore.com adm :: Failed
+1705916000.0323403 2024-01-22 15:03:20,032 ERROR test_case_001_login_title admin@yourstore.com and :: Failed
+1705916014.02513 2024-01-22 15:03:34,025 ERROR test_case_001_login_title admin@yourstore.com1 admin :: Failed
+1705916059.506997 2024-01-22 15:04:19,506 INFO test_case_001_login_title :: Passed
+1705916075.531393 2024-01-22 15:04:35,531 INFO test_case_001_login_titleadmin@yourstore.com_admin :: Passed
+1705916087.9400194 2024-01-22 15:04:47,940 ERROR test_case_001_login_title admin@yourstore.com adm :: Failed
+1705916098.943105 2024-01-22 15:04:58,943 ERROR test_case_001_login_title admin@yourstore.com and :: Failed
+1705916111.0694711 2024-01-22 15:05:11,069 ERROR test_case_001_login_title admin@yourstore.com1 admin :: Failed
+1705916291.2306552 2024-01-22 15:08:11,230 INFO test_case_001_login_title :: Passed
+1705916308.7292304 2024-01-22 15:08:28,729 INFO test_case_001_login_titleadmin@yourstore.com_admin :: Passed
+1705916320.6413667 2024-01-22 15:08:40,641 ERROR test_case_001_login_title admin@yourstore.com adm :: Failed
+1705916333.9108217 2024-01-22 15:08:53,910 ERROR test_case_001_login_title admin@yourstore.com and :: Failed
+1705916354.6713698 2024-01-22 15:09:14,671 ERROR test_case_001_login_title admin@yourstore.com1 admin :: Failed
+1705916397.950418 2024-01-22 15:09:57,950 INFO test_case_001_login_title :: Passed
+1705916412.9125834 2024-01-22 15:10:12,912 INFO test_case_001_login_titleadmin@yourstore.com_admin :: Passed
+1705916425.402298 2024-01-22 15:10:25,402 ERROR test_case_001_login_title admin@yourstore.com adm :: Failed
+1705916436.3291574 2024-01-22 15:10:36,329 ERROR test_case_001_login_title admin@yourstore.com and :: Failed
+1705916447.8244493 2024-01-22 15:10:47,824 ERROR test_case_001_login_title admin@yourstore.com1 admin :: Failed
+1705916708.866946 2024-01-22 15:15:08,866 INFO test_case_001_login_title :: Passed
+1705916722.7784033 2024-01-22 15:15:22,778 INFO test_case_001_login_titleadmin@yourstore.com_admin :: Passed
+1705916733.035547 2024-01-22 15:15:33,035 ERROR test_case_001_login_title admin@yourstore.com adm :: Fail
+1705916743.2179832 2024-01-22 15:15:43,217 ERROR test_case_001_login_title admin@yourstore.com and :: Fail
+1705916753.383842 2024-01-22 15:15:53,383 ERROR test_case_001_login_title admin@yourstore.com1 admin :: Fail
+1705981341.333351 2024-01-23 09:12:21,333 INFO test_case_001_login_title :: Passed
+1705981365.0449271 2024-01-23 09:12:45,044 INFO test_case_001_login_title admin@yourstore.com_admin :: Passed
+1705981386.7504575 2024-01-23 09:13:06,750 INFO test_case_102_login_title admin@yourstore.com_adm :: Passed
+1705981406.0671957 2024-01-23 09:13:26,067 INFO test_case_102_login_title admin@yourstore.com_and :: Passed
+1705981429.0249286 2024-01-23 09:13:49,024 INFO test_case_102_login_title admin@yourstore.com1_admin :: Passed
+1705981741.3399906 2024-01-23 09:19:01,339 INFO test_case_001_login_title :: Passed
+1705981764.5853167 2024-01-23 09:19:24,585 INFO test_case_001_login_title admin@yourstore.com_admin :: Passed
+1705981785.8293033 2024-01-23 09:19:45,829 INFO test_case_102_login_title admin@yourstore.com_adm :: Passed
+1705981804.9454513 2024-01-23 09:20:04,945 INFO test_case_102_login_title admin@yourstore.com_and :: Passed
+1705981821.8841367 2024-01-23 09:20:21,884 INFO test_case_102_login_title admin@yourstore.com1_admin :: Passed
+1705981936.39312 2024-01-23 09:22:16,393 INFO test_case_001_login_title admin@yourstore.com_admin :: Passed
+1705981955.8839767 2024-01-23 09:22:35,883 INFO test_case_102_login_title admin@yourstore.com_adm :: Passed
+1705981977.2200992 2024-01-23 09:22:57,220 INFO test_case_102_login_title admin@yourstore.com_and :: Passed
+1705981995.5454235 2024-01-23 09:23:15,545 INFO test_case_102_login_title admin@yourstore.com1_admin :: Passed
+1705982400.3299665 2024-01-23 09:30:00,329 INFO test_case_001_login_title admin@yourstore.com_admin :: Passed
+1705982413.7448685 2024-01-23 09:30:13,744 INFO test_case_102_login_title admin@yourstore.com_adm :: Passed
+1705982425.5637627 2024-01-23 09:30:25,563 INFO test_case_102_login_title admin@yourstore.com_and :: Passed
+1705982437.9296808 2024-01-23 09:30:37,929 INFO test_case_102_login_title admin@yourstore.com1_admin :: Passed
+1705982660.9486752 2024-01-23 09:34:20,948 INFO test_case_001_login_title admin@yourstore.com_admin :: Passed
+1705982674.1233535 2024-01-23 09:34:34,123 INFO test_case_102_login_title admin@yourstore.com_adm :: Passed
+1705982685.3472414 2024-01-23 09:34:45,347 INFO test_case_102_login_title admin@yourstore.com_and :: Passed
+1705982695.8060772 2024-01-23 09:34:55,806 INFO test_case_102_login_title admin@yourstore.com1_admin :: Passed
+1706081587.3892422 2024-01-24 13:03:07,389 INFO test_case_001_login_title :: Passed
+1706081610.4014544 2024-01-24 13:03:30,401 INFO test_case_001_login_title :: Passed
+1706161938.872414 2024-01-25 11:22:18,872 INFO test_case_001_login_title :: Passed
+1706162049.863613 2024-01-25 11:24:09,863 INFO test_case_001_login_title :: Passed
+1706162152.7839775 2024-01-25 11:25:52,783 INFO test_case_001_login_title :: Passed
+1706162248.3014343 2024-01-25 11:27:28,301 INFO Login successful
+1706162249.674511 2024-01-25 11:27:29,674 INFO test_case_001_login_title :: Passed
+1706165111.4269645 2024-01-25 12:15:11,426 INFO Login successful
+1706165113.4774463 2024-01-25 12:15:13,477 INFO test_case_001_login_title :: Passed
+1706165207.2313955 2024-01-25 12:16:47,231 INFO Login successful
+1706165208.1143365 2024-01-25 12:16:48,114 INFO test_case_001_login_title :: Passed
+1706165361.7477238 2024-01-25 12:19:21,747 INFO Login successful
+1706165363.154578 2024-01-25 12:19:23,154 INFO test_case_001_login_title :: Passed
+1706165386.729527 2024-01-25 12:19:46,729 INFO Login successful
+1706165388.1755688 2024-01-25 12:19:48,175 INFO test_case_001_login_title :: Passed
+1706165452.8258803 2024-01-25 12:20:52,825 INFO Login successful
+1706165454.2865381 2024-01-25 12:20:54,286 INFO test_case_001_login_title :: Passed
+1706165597.4024897 2024-01-25 12:23:17,402 INFO Login successful
+1706165598.6596496 2024-01-25 12:23:18,659 INFO test_case_001_login_title :: Passed
+1706165853.315343 2024-01-25 12:27:33,315 INFO Login successful
+1706165854.7462714 2024-01-25 12:27:34,746 INFO test_case_001_login_title :: Passed
+1706165969.4663062 2024-01-25 12:29:29,466 INFO Login successful
+1706165971.267641 2024-01-25 12:29:31,267 INFO test_case_001_login_title :: Passed
+1706166592.4276526 2024-01-25 12:39:52,427 INFO Login successful
+1706166592.471456 2024-01-25 12:39:52,471 INFO test_case_001_login_title :: Passed
+1706167153.012682 2024-01-25 12:49:13,012 INFO Login successful
+1706167154.730129 2024-01-25 12:49:14,730 INFO test_case_001_login_title :: Passed
+1706167234.4237328 2024-01-25 12:50:34,423 INFO Login successful
+1706167236.0959408 2024-01-25 12:50:36,095 INFO test_case_001_login_title :: Passed
+1706167341.743634 2024-01-25 12:52:21,743 INFO Login successful
+1706167342.5829108 2024-01-25 12:52:22,582 INFO test_case_001_login_title :: Passed
+1706167469.7192366 2024-01-25 12:54:29,719 INFO Login successful
+1706167471.360738 2024-01-25 12:54:31,360 INFO test_case_001_login_title :: Passed
+1706167555.6319273 2024-01-25 12:55:55,631 INFO Login successful
+1706167557.2413247 2024-01-25 12:55:57,241 INFO test_case_001_login_title :: Passed
+1706167730.0146158 2024-01-25 12:58:50,014 INFO Login successful
+1706167731.384887 2024-01-25 12:58:51,384 INFO test_case_001_login_title :: Passed
+1706167777.2496414 2024-01-25 12:59:37,249 INFO Login successful
+1706167777.3209674 2024-01-25 12:59:37,320 INFO test_case_001_login_title :: Passed
+1706168474.9214242 2024-01-25 13:11:14,921 INFO Login successful
+1706168476.4635706 2024-01-25 13:11:16,463 INFO test_case_001_login_title :: Passed
+1706168595.7960021 2024-01-25 13:13:15,796 INFO Login successful
+1706168597.119629 2024-01-25 13:13:17,119 INFO test_case_001_login_title :: Passed
+1706168667.247967 2024-01-25 13:14:27,247 INFO Login successful
+1706168668.9664917 2024-01-25 13:14:28,966 INFO test_case_001_login_title :: Passed
+1706169242.3780289 2024-01-25 13:24:02,378 INFO Login successful
+1706169243.8814032 2024-01-25 13:24:03,881 INFO test_case_001_login_title :: Passed
+1706169266.410965 2024-01-25 13:24:26,410 INFO Login successful
+1706169268.2142663 2024-01-25 13:24:28,214 INFO test_case_001_login_title :: Passed
+1706169416.0810316 2024-01-25 13:26:56,081 INFO Login successful
+1706169418.0127025 2024-01-25 13:26:58,012 INFO test_case_001_login_title :: Passed
+1706169489.5171802 2024-01-25 13:28:09,517 INFO Login successful
+1706169489.6019542 2024-01-25 13:28:09,601 INFO test_case_001_login_title :: Passed
+1706169721.5853465 2024-01-25 13:32:01,585 INFO Login successful
+1706169723.150407 2024-01-25 13:32:03,150 INFO test_case_001_login_title :: Passed
+1706169903.9763155 2024-01-25 13:35:03,976 INFO Login successful
+1706169905.520747 2024-01-25 13:35:05,520 INFO test_case_001_login_title :: Passed
+1706169956.3582428 2024-01-25 13:35:56,358 INFO Login successful
+1706169959.0380025 2024-01-25 13:35:59,038 INFO test_case_001_login_title :: Passed
+1706170021.8711739 2024-01-25 13:37:01,871 INFO Login successful
+1706170022.641449 2024-01-25 13:37:02,641 INFO test_case_001_login_title :: Passed
+1706170219.9876769 2024-01-25 13:40:19,987 INFO Login successful
+1706170221.5279562 2024-01-25 13:40:21,527 INFO test_case_001_login_title :: Passed
+1706170273.362858 2024-01-25 13:41:13,362 INFO Login successful
+1706170275.1286361 2024-01-25 13:41:15,128 INFO test_case_001_login_title :: Passed
+1706170359.8389475 2024-01-25 13:42:39,838 INFO Login successful
+1706170361.0707145 2024-01-25 13:42:41,070 INFO test_case_001_login_title :: Passed
+1706170396.446502 2024-01-25 13:43:16,446 INFO Login successful
+1706170398.3537312 2024-01-25 13:43:18,353 INFO test_case_001_login_title :: Passed
+1706171193.2172406 2024-01-25 13:56:33,217 INFO test_case_001_login_title :: Passed
+1706171265.4671886 2024-01-25 13:57:45,467 INFO test_case_001_login_title :: Passed
+1706171286.6502225 2024-01-25 13:58:06,650 INFO test_case_001_login_title :: Passed
+1706171692.8893569 2024-01-25 14:04:52,889 INFO test_case_001_login_title :: Passed
+1706171728.6477118 2024-01-25 14:05:28,647 INFO test_case_001_login_title :: Passed
+1706171818.1782262 2024-01-25 14:06:58,178 INFO test_case_001_login_title :: Passed
+1706171882.7831266 2024-01-25 14:08:02,783 INFO test_case_001_login_title :: Passed
+1706172014.3641253 2024-01-25 14:10:14,364 INFO test_case_001_login_title :: Passed
+1706172150.0045857 2024-01-25 14:12:30,004 INFO test_case_001_login_title :: Passed
+1706172174.6053627 2024-01-25 14:12:54,605 INFO test_case_001_login_title :: Passed
+1706172321.0090303 2024-01-25 14:15:21,009 INFO test_case_001_login_title :: Passed
+1706172352.3575673 2024-01-25 14:15:52,357 INFO test_case_001_login_title :: Passed
+1706172436.864841 2024-01-25 14:17:16,864 INFO test_case_001_login_title :: Passed
+1706172649.4794583 2024-01-25 14:20:49,479 INFO test_case_001_login_title :: Passed
+1706172684.0041378 2024-01-25 14:21:24,004 INFO test_case_001_login_title :: Passed
+1706172858.5308392 2024-01-25 14:24:18,530 INFO test_case_001_login_title :: Passed
+1706172943.9383988 2024-01-25 14:25:43,938 INFO test_case_001_login_title :: Passed
+1706172987.3760958 2024-01-25 14:26:27,376 INFO test_case_001_login_title :: Passed
+1706173027.9991977 2024-01-25 14:27:07,999 INFO test_case_001_login_title :: Passed
+1706173120.1484714 2024-01-25 14:28:40,148 INFO test_case_001_login_title :: Passed
+1706173160.1347375 2024-01-25 14:29:20,134 INFO test_case_001_login_title :: Passed
+1706173283.4414728 2024-01-25 14:31:23,441 INFO test_case_001_login_title :: Passed
+1706173412.6580584 2024-01-25 14:33:32,658 INFO test_case_001_login_title :: Passed
+1706173443.1396255 2024-01-25 14:34:03,139 INFO test_case_001_login_title :: Passed
+1706185578.4471354 2024-01-25 17:56:18,447 INFO test_case_001_login_title :: Passed
+1706253795.186994 2024-01-26 12:53:15,186 INFO Login successful
+1706253796.691651 2024-01-26 12:53:16,691 INFO test_case_001_login_title :: Passed
+1706253852.455929 2024-01-26 12:54:12,455 INFO Login successful
+1706253854.0301783 2024-01-26 12:54:14,030 INFO test_case_001_login_title :: Passed
+1706253905.5396698 2024-01-26 12:55:05,539 INFO Login successful
+1706253907.0851955 2024-01-26 12:55:07,085 INFO test_case_001_login_title :: Passed
+1706253958.7939265 2024-01-26 12:55:58,793 INFO Login successful
+1706253958.928197 2024-01-26 12:55:58,928 INFO test_case_001_login_title :: Passed
+1706253992.2541425 2024-01-26 12:56:32,254 INFO Login successful
+1706253992.8314643 2024-01-26 12:56:32,831 INFO test_case_001_login_title :: Passed
+1706254080.9697454 2024-01-26 12:58:00,969 INFO Login successful
+1706254082.2651706 2024-01-26 12:58:02,265 INFO test_case_001_login_title :: Passed
+1706254256.6419594 2024-01-26 13:00:56,641 INFO Login successful
+1706254257.9524002 2024-01-26 13:00:57,952 INFO test_case_001_login_title :: Passed
+1706254319.0881097 2024-01-26 13:01:59,088 INFO Login successful
+1706254319.1768608 2024-01-26 13:01:59,176 INFO test_case_001_login_title :: Passed
+1706254398.7068784 2024-01-26 13:03:18,706 INFO Login successful
+1706254398.8038702 2024-01-26 13:03:18,803 INFO test_case_001_login_title :: Passed
+1706254496.215887 2024-01-26 13:04:56,215 INFO Login successful
+1706254497.6786559 2024-01-26 13:04:57,678 INFO test_case_001_login_title :: Passed
+1706254562.4585035 2024-01-26 13:06:02,458 INFO Login successful
+1706254563.7834747 2024-01-26 13:06:03,783 INFO test_case_001_login_title :: Passed
+1706254875.6241548 2024-01-26 13:11:15,624 INFO Login successful
+1706254875.6418447 2024-01-26 13:11:15,641 INFO test_case_001_login_title :: Passed
+1706254940.5478916 2024-01-26 13:12:20,547 INFO Login successful
+1706254941.9565103 2024-01-26 13:12:21,956 INFO test_case_001_login_title :: Passed
+1706254960.7992191 2024-01-26 13:12:40,799 ERROR test_case_001_add_customer :: Failed
+1706255198.4296668 2024-01-26 13:16:38,429 INFO Login successful
+1706255199.8532143 2024-01-26 13:16:39,853 INFO test_case_001_login_title :: Passed
+1706255302.369399 2024-01-26 13:18:22,369 INFO Login successful
+1706255303.7580457 2024-01-26 13:18:23,758 INFO test_case_001_login_title :: Passed
+1706255336.0395606 2024-01-26 13:18:56,039 INFO Login successful
+1706255336.4904144 2024-01-26 13:18:56,490 INFO test_case_001_login_title :: Passed
+1706255370.959933 2024-01-26 13:19:30,959 INFO Login successful
+1706255372.459389 2024-01-26 13:19:32,459 INFO test_case_001_login_title :: Passed
+1706255436.7364352 2024-01-26 13:20:36,736 INFO Login successful
+1706255437.370755 2024-01-26 13:20:37,370 INFO test_case_001_login_title :: Passed
+1706255660.6849966 2024-01-26 13:24:20,684 INFO Login successful
+1706255661.9968395 2024-01-26 13:24:21,996 INFO test_case_001_login_title :: Passed
+1706255784.5840018 2024-01-26 13:26:24,584 INFO Login successful
+1706255786.1059325 2024-01-26 13:26:26,105 INFO test_case_001_login_title :: Passed
+1706255822.899761 2024-01-26 13:27:02,899 INFO Login successful
+1706255822.989737 2024-01-26 13:27:02,989 INFO test_case_001_login_title :: Passed
+1706255850.546689 2024-01-26 13:27:30,546 INFO Login successful
+1706255851.9045482 2024-01-26 13:27:31,904 INFO test_case_001_login_title :: Passed
+1706255893.1593337 2024-01-26 13:28:13,159 INFO Login successful
+1706255894.5537426 2024-01-26 13:28:14,553 INFO test_case_001_login_title :: Passed
+1706255989.580715 2024-01-26 13:29:49,580 INFO Login successful
+1706255990.1334207 2024-01-26 13:29:50,133 INFO test_case_001_login_title :: Passed
+1706256108.755812 2024-01-26 13:31:48,755 INFO Login successful
+1706256110.264281 2024-01-26 13:31:50,264 INFO test_case_001_login_title :: Passed
+1706256128.9838934 2024-01-26 13:32:08,983 ERROR test_case_001_add_customer :: Failed
+1706256208.5499833 2024-01-26 13:33:28,549 INFO Login successful
+1706256209.939435 2024-01-26 13:33:29,939 INFO test_case_001_login_title :: Passed
+1706256229.4334698 2024-01-26 13:33:49,433 ERROR test_case_001_add_customer :: Failed
+1706256282.2994294 2024-01-26 13:34:42,299 INFO Login successful
+1706256282.4560719 2024-01-26 13:34:42,456 INFO test_case_001_login_title :: Passed
+1706256302.0956974 2024-01-26 13:35:02,095 ERROR test_case_001_add_customer :: Failed
+1706256449.225546 2024-01-26 13:37:29,225 INFO Login successful
+1706256450.9078784 2024-01-26 13:37:30,907 INFO test_case_001_login_title :: Passed
+1706256470.3332922 2024-01-26 13:37:50,333 INFO test_case_001_add_customer :: Passed
+1706256508.201976 2024-01-26 13:38:28,201 INFO Login successful
+1706256509.5908754 2024-01-26 13:38:29,590 INFO test_case_001_login_title :: Passed
+1706256528.7534504 2024-01-26 13:38:48,753 INFO test_case_001_add_customer :: Passed
+1706256976.8799202 2024-01-26 13:46:16,879 INFO test_case_001_login_title :: Passed
+1706257202.8435998 2024-01-26 13:50:02,843 INFO test_case_001_login_title :: Passed
+1706257295.9688659 2024-01-26 13:51:35,968 INFO test_case_001_login_title :: Passed
+1706257395.0263636 2024-01-26 13:53:15,026 INFO test_case_001_login_title :: Passed
+1706260710.6497293 2024-01-26 14:48:30,649 INFO test_case_001_login_title :: Passed
+1706260893.1667788 2024-01-26 14:51:33,166 INFO test_case_001_login_title :: Passed
+1706260966.3292909 2024-01-26 14:52:46,329 INFO test_case_001_login_title :: Passed
+1706261042.3995879 2024-01-26 14:54:02,399 INFO test_case_001_login_title :: Passed
+1706261198.8622968 2024-01-26 14:56:38,862 INFO test_case_001_login_title :: Passed
+1706261244.6262214 2024-01-26 14:57:24,626 INFO test_case_001_login_title :: Passed
+1706261295.0649786 2024-01-26 14:58:15,064 INFO test_case_001_login_title :: Passed
+1706261336.5876334 2024-01-26 14:58:56,587 INFO test_case_001_login_title :: Passed
+1706261429.6371922 2024-01-26 15:00:29,637 INFO test_case_001_login_title :: Passed
+1706261494.4147675 2024-01-26 15:01:34,414 INFO test_case_001_login_title :: Passed
+1706262024.1698313 2024-01-26 15:10:24,169 INFO test_case_001_login_title :: Passed
+1706262098.7586484 2024-01-26 15:11:38,758 INFO test_case_001_login_title :: Passed
+1706262261.7564082 2024-01-26 15:14:21,756 INFO test_case_001_login_title :: Passed
+1706262313.5838218 2024-01-26 15:15:13,583 INFO test_case_001_login_title :: Passed
+1706262355.8527339 2024-01-26 15:15:55,852 INFO test_case_001_login_title :: Passed
+1706262428.9120967 2024-01-26 15:17:08,912 INFO test_case_001_login_title :: Passed
+1706262659.8909209 2024-01-26 15:20:59,890 INFO test_case_001_login_title :: Passed
+1706262661.9781604 2024-01-26 15:21:01,978 ERROR  test_case_003_search:: Failed
+1706262689.7561648 2024-01-26 15:21:29,756 INFO test_case_001_login_title :: Passed
+1706262759.8929782 2024-01-26 15:22:39,892 INFO test_case_001_login_title :: Passed
+1706263860.7802835 2024-01-26 15:41:00,780 INFO test_case_001_login_title :: Passed
+1706264101.1508393 2024-01-26 15:45:01,150 INFO test_case_001_login_title :: Passed
+1706264139.1323407 2024-01-26 15:45:39,132 INFO test_case_001_login_title :: Passed
+1706264185.1957355 2024-01-26 15:46:25,195 INFO test_case_001_login_title :: Passed
+1706264221.9554484 2024-01-26 15:47:01,955 INFO test_case_001_login_title :: Passed
+1706264248.940231 2024-01-26 15:47:28,940 INFO test_case_001_login_title :: Passed
+1706264271.2112234 2024-01-26 15:47:51,211 INFO test_case_001_login_title :: Passed
+1706264307.5510423 2024-01-26 15:48:27,551 INFO test_case_001_login_title :: Passed
+1706264445.691158 2024-01-26 15:50:45,691 INFO test_case_001_login_title :: Passed
+1706264494.0892527 2024-01-26 15:51:34,089 INFO test_case_001_login_title :: Passed
+1706264581.644331 2024-01-26 15:53:01,644 INFO test_case_001_login_title :: Passed
+1706264610.4132276 2024-01-26 15:53:30,413 INFO test_case_001_login_title :: Passed
+1706266649.0668807 2024-01-26 16:27:29,066 INFO test_case_001_login_title :: Passed
+1706266682.996195 2024-01-26 16:28:02,996 INFO test_case_001_login_title :: Passed
+1706266845.003158 2024-01-26 16:30:45,003 INFO test_case_001_login_title :: Passed
+1706266846.9119756 2024-01-26 16:30:46,911 ERROR  test_case_003_search:: Failed
+1706271585.7531338 2024-01-26 17:49:45,753 INFO Login successful
+1706271587.0566282 2024-01-26 17:49:47,056 INFO test_case_001_login_title :: Passed
+1706271609.142383 2024-01-26 17:50:09,142 INFO Login successful
+1706271609.661385 2024-01-26 17:50:09,661 INFO test_case_001_login_title :: Passed
+1706271640.9541175 2024-01-26 17:50:40,954 INFO Login successful
+1706271641.0622146 2024-01-26 17:50:41,062 INFO test_case_001_login_title :: Passed
+1706271716.058808 2024-01-26 17:51:56,058 INFO Login successful
+1706271717.989968 2024-01-26 17:51:57,989 INFO test_case_001_login_title :: Passed
+1706271763.429811 2024-01-26 17:52:43,429 INFO Login successful
+1706271764.8853376 2024-01-26 17:52:44,885 INFO test_case_001_login_title :: Passed
+1706272104.013809 2024-01-26 17:58:24,013 INFO Login successful
+1706272105.568897 2024-01-26 17:58:25,568 INFO test_case_001_login_title :: Passed
+1706272190.0202818 2024-01-26 17:59:50,020 INFO Login successful
+1706272190.156529 2024-01-26 17:59:50,156 INFO test_case_001_login_title :: Passed
+1706272431.1029491 2024-01-26 18:03:51,102 INFO Login successful
+1706272432.6879113 2024-01-26 18:03:52,687 INFO test_case_001_login_title :: Passed
+1706272487.0841684 2024-01-26 18:04:47,084 INFO Login successful
+1706272488.9322119 2024-01-26 18:04:48,932 INFO test_case_001_login_title :: Passed
+1706272512.5517726 2024-01-26 18:05:12,551 INFO test_case_001_add_customer :: Passed
+1706272554.5792906 2024-01-26 18:05:54,579 INFO test_case_001_login_title :: Passed
+1706272577.3259122 2024-01-26 18:06:17,325 INFO test_case_001_login_title :: Passed
+1706272580.378664 2024-01-26 18:06:20,378 ERROR  test_case_003_search:: Failed
+1706272624.6663334 2024-01-26 18:07:04,666 INFO test_case_001_login_title :: Passed
+1706272627.0312467 2024-01-26 18:07:07,031 ERROR  test_case_003_search:: Failed
+1706272647.863875 2024-01-26 18:07:27,863 INFO test_case_001_login_title :: Passed
+1706272672.5023093 2024-01-26 18:07:52,502 INFO test_case_001_login_title :: Passed
+1706272693.0698617 2024-01-26 18:08:13,069 INFO test_case_001_login_title :: Passed
+1706272695.1845496 2024-01-26 18:08:15,184 ERROR  test_case_003_search:: Failed
+1706272709.9359295 2024-01-26 18:08:29,935 INFO Login successful
+1706272711.4776711 2024-01-26 18:08:31,477 INFO test_case_001_login_title :: Passed
+1706272735.1579442 2024-01-26 18:08:55,157 INFO test_case_001_add_customer :: Passed
+1706272756.3649082 2024-01-26 18:09:16,364 INFO test_case_001_login_title :: Passed
+1706272776.3231304 2024-01-26 18:09:36,323 INFO test_case_001_login_title :: Passed
+1706272918.3530576 2024-01-26 18:11:58,353 INFO test_case_001_login_title :: Passed
+1706273021.8014243 2024-01-26 18:13:41,801 INFO test_case_001_login_title :: Passed
+1706273055.8508828 2024-01-26 18:14:15,850 INFO test_case_001_login_title :: Passed
+1706273076.2522614 2024-01-26 18:14:36,252 INFO test_case_001_login_title :: Passed
+1706273153.5182743 2024-01-26 18:15:53,518 INFO test_case_001_login_title :: Passed
+1706273156.4760966 2024-01-26 18:15:56,476 ERROR  test_case_003_search:: Failed
+1706273194.872505 2024-01-26 18:16:34,872 INFO test_case_001_login_title :: Passed
+1706273197.6379461 2024-01-26 18:16:37,637 ERROR  test_case_003_search:: Failed
+1706273242.5877802 2024-01-26 18:17:22,587 INFO test_case_001_login_title :: Passed
+1706273265.8278441 2024-01-26 18:17:45,827 INFO test_case_001_login_title :: Passed
+1706273284.434755 2024-01-26 18:18:04,434 INFO test_case_001_login_title :: Passed
+1706273355.4871204 2024-01-26 18:19:15,487 INFO test_case_001_login_title :: Passed
+1706273374.1691344 2024-01-26 18:19:34,169 INFO test_case_001_login_title :: Passed
+1706273396.6047761 2024-01-26 18:19:56,604 INFO test_case_001_login_title :: Passed
+1706273452.333408 2024-01-26 18:20:52,333 INFO test_case_001_login_title :: Passed
+1706273454.7152262 2024-01-26 18:20:54,715 ERROR  test_case_003_search:: Failed
+1706273502.7565563 2024-01-26 18:21:42,756 INFO test_case_001_login_title :: Passed
+1706273536.064018 2024-01-26 18:22:16,064 INFO test_case_001_login_title :: Passed
+1706273557.515881 2024-01-26 18:22:37,515 INFO test_case_001_login_title :: Passed
+1706273606.6610534 2024-01-26 18:23:26,661 INFO test_case_001_login_title :: Passed
+1706273752.740565 2024-01-26 18:25:52,740 INFO test_case_001_login_title :: Passed
+1706273824.391559 2024-01-26 18:27:04,391 INFO test_case_001_login_title :: Passed
+1706273873.887646 2024-01-26 18:27:53,887 INFO test_case_001_login_title :: Passed
+1706273895.9063547 2024-01-26 18:28:15,906 INFO test_case_001_login_title :: Passed
+1706446049.4715166 2024-01-28 18:17:29,471 INFO test_case_001_login_title :: Passed
+1706446066.8845708 2024-01-28 18:17:46,884 INFO test_case_001_login_title :: Passed
+1706446087.7777162 2024-01-28 18:18:07,777 INFO test_case_001_login_title :: Passed
+1706446089.9459035 2024-01-28 18:18:09,945 ERROR  test_case_003_search:: Failed
+1706446119.279709 2024-01-28 18:18:39,279 INFO test_case_001_login_title :: Passed
+1706446141.1344821 2024-01-28 18:19:01,134 INFO test_case_001_login_title :: Passed
+1706446172.2686331 2024-01-28 18:19:32,268 INFO test_case_001_login_title :: Passed
+1706446194.0269637 2024-01-28 18:19:54,026 INFO test_case_001_login_title :: Passed
+1706446212.1369762 2024-01-28 18:20:12,136 INFO test_case_001_login_title :: Passed
+1706446234.1127136 2024-01-28 18:20:34,112 INFO test_case_001_login_title :: Passed
+1706446252.0576184 2024-01-28 18:20:52,057 INFO test_case_001_login_title :: Passed
+1706446269.1585722 2024-01-28 18:21:09,158 INFO test_case_001_login_title :: Passed
+1706446297.2399807 2024-01-28 18:21:37,239 INFO test_case_001_login_title :: Passed
+1706446324.6964557 2024-01-28 18:22:04,696 INFO test_case_001_login_title :: Passed
+1706446341.9551308 2024-01-28 18:22:21,955 INFO test_case_001_login_title :: Passed
+1706446360.6448169 2024-01-28 18:22:40,644 INFO test_case_001_login_title :: Passed
+1706446376.3774748 2024-01-28 18:22:56,377 INFO test_case_001_login_title :: Passed
+1706446395.7378993 2024-01-28 18:23:15,737 INFO test_case_001_login_title :: Passed
