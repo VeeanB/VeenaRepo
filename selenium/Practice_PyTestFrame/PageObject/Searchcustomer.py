@@ -91,14 +91,14 @@ class SearchCustomers:
         print(len(list))
         fname="John"
         for i in list:
-             print(i.text)
+            # print(i.text)
              if  fname in i.text:
                  break
              # else:
              #    self.driver.find_element(By.XPATH,"//ul[@class='pagination']/li[3]/a").click()
 
         #print("passed")
-        return fname
+        return True
 
 
 

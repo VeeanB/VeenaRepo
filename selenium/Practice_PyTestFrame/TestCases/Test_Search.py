@@ -38,15 +38,17 @@ class Test_Suit_Search():
         # search_obj.SearchIP("162.158.8.141")
         # search_obj.CustomerRole("Registered")
         search_obj.Seachcustomer()
-        print(search_obj.Verifyemaillist())
+        sleep(5)
+        #print(search_obj.Verifyemaillist())
         self.status=search_obj.Verifyemaillist()
-        # if self.status == True:
-        #     self.log.info(" test_case_003_search :: Passed")
-        #     assert True
-        # else:
-        #     self.driver.save_screenshot("./ScreenShots/ test_case_003_search.png")
-        #     self.log.error(" test_case_003_search:: Failed")
-        #     assert False
+        if self.status == True:
+            self.log.info(" test_case_003_search :: Passed")
+            assert True
+
+        else:
+            self.driver.save_screenshot("./ScreenShots/ test_case_003_search.png")
+            self.log.error(" test_case_003_search:: Failed")
+            assert False
 
         sleep(10)
 

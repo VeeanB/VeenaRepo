@@ -28,3 +28,4 @@ unittest.TextTestRunner(verbosity=2).run(sanity)
 #match’ and ‘search’
 #pickling and unpickling
 #generators
+#QR Code and barcode,Image capture

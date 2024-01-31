@@ -56,8 +56,9 @@ class Test_Suit_Addcustomer():
         self.status=addcustomer_obj.VerifyAlert()
         if self.status == True:
             self.log.info("test_case_001_add_customer :: Passed")
+            print("Passed")
             assert True
         else:
            self.log.error("test_case_001_add_customer :: Failed")
            self.driver.save_screenshot(r"C:\Users\veenu\PycharmProjects\PythonClass\selenium\Practice_PyTestFrame\ScreenShots\test_case_001_add_customer.png")
-           #assert False
+           assert False

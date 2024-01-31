@@ -2,7 +2,6 @@ import pytest
 from PageObject.LoginPage import LoginPage
 from Utilities.readProperty import ReadConfig
 from Utilities.customlogger import logger
-from PageObject.Addcustomer import Addcustomer
 
 class Test_Suit_Login():
     def  test_case_001_login_title(self,setup):
@@ -11,7 +10,6 @@ class Test_Suit_Login():
         self.driver=setup
         self.log = logger()
         login_obj = LoginPage(self.driver)
-        addcustomer_obj = Addcustomer(self.driver)
         login_obj.SetUsername(self.User)
         login_obj.SetPassword(self.Password)
         login_obj.Clicklogin()

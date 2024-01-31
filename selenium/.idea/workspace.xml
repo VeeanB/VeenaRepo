@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4b19871-0334-447a-9aff-2cc4ce42a417" name="Changes" comment="" />
+    <list default="true" id="c4b19871-0334-447a-9aff-2cc4ce42a417" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Practice_PyTestFrame/run.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/selenium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/selenium.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewChanges" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice_PyTestFrame/Log/test.log" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_PyTestFrame/Log/test.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice_PyTestFrame/PageObject/Searchcustomer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_PyTestFrame/PageObject/Searchcustomer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice_PyTestFrame/TestCases/Test_Addcustomer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_PyTestFrame/TestCases/Test_Addcustomer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice_PyTestFrame/TestCases/Test_Login.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_PyTestFrame/TestCases/Test_Login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice_PyTestFrame/TestCases/Test_Search.py" beforeDir="false" afterPath="$PROJECT_DIR$/Practice_PyTestFrame/TestCases/Test_Search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitTest_Sample-Frame/TestSuit.py" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTest_Sample-Frame/TestSuit.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +28,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Practice/Trail_DateTimePicker.py" root0="FORCE_HIGHLIGHTING" />
@@ -40,24 +55,24 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/veenu/PycharmProjects/PythonClass/selenium/Practice_PyTestFrame/Test Data&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/veenu/PycharmProjects/PythonClass/selenium/Practice_PyTestFrame&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\veenu\PycharmProjects\PythonClass\selenium\Practice_PyTestFrame" />
       <recent name="C:\Users\veenu\PycharmProjects\PythonClass\selenium\Practice_PyTestFrame\Test Data" />
       <recent name="C:\Users\veenu\PycharmProjects\PythonClass\selenium\Practice_PyTestFrame\TestCases" />
       <recent name="C:\Users\veenu\PycharmProjects\PythonClass\selenium\Practice_PyTestFrame\Utilities" />
       <recent name="C:\Users\veenu\PycharmProjects\selenium\UnitTest_Sample-Frame\pack2" />
-      <recent name="C:\Users\veenu\PycharmProjects\selenium\UnitTest_Sample-Frame\pack1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\veenu\PycharmProjects\PythonClass\selenium\Practice_PyTestFrame\Utilities" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Cheap_Flight_DatePicker">
-    <configuration name="Cheap_Flight_Date" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.drag_offset">
+    <configuration name="Date Time" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="selenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,7 +84,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice/Cheap_Flight_Date.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice/Date Time.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Cheap_Flight_DatePicker" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Double_Click and drag&amp; drop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="selenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,7 +105,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice/Cheap_Flight_DatePicker.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice/Double_Click and drag&amp; drop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LoginPage (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="date_timeSQA" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="selenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,11 +122,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice_PyTestFrame/PageObject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice_PyTestFrame/PageObject/LoginPage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice/date_timeSQA.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LoginPage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="doubt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="selenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,11 +143,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Hybrid_Frame/PageObject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hybrid_Frame/PageObject/LoginPage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice/doubt.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Test_Login" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="drag_offset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="selenium" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,11 +164,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice_PyTestFrame/TestCases" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice_PyTestFrame/TestCases/Test_Login.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice/drag_offset.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,19 +201,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.main" />
-      <item itemvalue="Python.Cheap_Flight_Date" />
-      <item itemvalue="Python.Cheap_Flight_DatePicker" />
-      <item itemvalue="Python.LoginPage (1)" />
-      <item itemvalue="Python.Test_Login" />
-      <item itemvalue="Python.LoginPage" />
+      <item itemvalue="Python.Date Time" />
+      <item itemvalue="Python.Double_Click and drag&amp; drop" />
+      <item itemvalue="Python.date_timeSQA" />
+      <item itemvalue="Python.doubt" />
+      <item itemvalue="Python.drag_offset" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Cheap_Flight_DatePicker" />
-        <item itemvalue="Python.Cheap_Flight_Date" />
-        <item itemvalue="Python.Test_Login" />
-        <item itemvalue="Python.LoginPage (1)" />
-        <item itemvalue="Python.LoginPage" />
+        <item itemvalue="Python.drag_offset" />
+        <item itemvalue="Python.doubt" />
+        <item itemvalue="Python.Double_Click and drag&amp; drop" />
+        <item itemvalue="Python.date_timeSQA" />
+        <item itemvalue="Python.Date Time" />
       </list>
     </recent_temporary>
   </component>
